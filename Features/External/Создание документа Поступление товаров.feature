@@ -1,6 +1,6 @@
 ﻿#language: ru
 @ExportScenarios
-
+@IgnoreOnMainBuild
 
 Функционал: создание документа Поступление товаров
 
