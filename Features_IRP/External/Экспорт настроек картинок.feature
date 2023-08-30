@@ -16,9 +16,9 @@
 		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'False'        | 7      | 'PREWIEV STORAGE' | ''                                                                         | 'Enum.IntegrationType.LocalFileStorage' | 'ValueStorage:AQEIAAAAAAAAAO+7v3siVSJ9' | '_12cc678b0b994421bb04d9dbd7e04a7f' |
 
 	И я перезаполняю для объекта табличную часть "ConnectionSetting":
-		| 'Ref'                                                                         | 'Key'         | 'Value'                               |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Source'  |
-		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\\Users\\Seramiti\\Documents\\Preview' |
+		| 'Ref'                                                                         | 'Key'         | 'Value'                                             |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49494' | 'AddressPath' | 'C:\Users\t.polyanskikh\Documents\TestQA\Pictures1' |
+		| 'e1cib/data/Catalog.IntegrationSettings?ref=b772dbcd8801bc7611ec420177a49495' | 'AddressPath' | 'C:\Users\t.polyanskikh\Documents\TestQA\Pictures1' |
 
 	И я перезаполняю константу "DefaultPictureStorageVolume" значением "e1cib/data/Catalog.FileStorageVolumes?ref=b772dbcd8801bc7611ec420177a49496"
 
