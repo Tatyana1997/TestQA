@@ -1,0 +1,1 @@
+﻿"Documents.PriceList.FindByNumber(2).GetObject().Write(DocumentWriteMode.Posting);"

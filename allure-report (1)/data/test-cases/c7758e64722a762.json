@@ -1,0 +1,2616 @@
+{
+  "uid" : "c7758e64722a762",
+  "name" : "_03000 preparation (Discount)",
+  "fullName" : "internal/_0300 discount/_0300discount.feature__03000 preparation (discount)",
+  "historyId" : "special offers._03000 preparation (Discount)",
+  "time" : {
+    "start" : 1704699460385,
+    "stop" : 1704699480624,
+    "duration" : 20239
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Given I launch TestClient opening script or connect the existing one",
+    "time" : {
+      "start" : 1704699460394,
+      "stop" : 1704699472273,
+      "duration" : 11879
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When set True value to the constant",
+      "time" : {
+        "start" : 1704699472463,
+        "stop" : 1704699473756,
+        "duration" : 1293
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Given I open hyperlink \"e1cib/app/DataProcessor.FunctionalOptionSettings\"",
+        "time" : {
+          "start" : 1704699472463,
+          "stop" : 1704699472475,
+          "duration" : 12
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "e1cib/app/DataProcessor.FunctionalOptionSettings"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I click \"Check all\" button",
+        "time" : {
+          "start" : 1704699472476,
+          "stop" : 1704699472647,
+          "duration" : 171
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "Check all"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472649,
+          "stop" : 1704699472686,
+          "duration" : 37
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "e6802b16e45afc89",
+          "name" : "table",
+          "source" : "e6802b16e45afc89.csv",
+          "type" : "text/csv",
+          "size" : 55
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I activate \"Use\" field in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472687,
+          "stop" : 1704699472701,
+          "duration" : 14
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472702,
+          "stop" : 1704699472713,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472714,
+          "stop" : 1704699472725,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472726,
+          "stop" : 1704699472774,
+          "duration" : 48
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "dbed0e6992d2dd22",
+          "name" : "table",
+          "source" : "dbed0e6992d2dd22.csv",
+          "type" : "text/csv",
+          "size" : 58
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472775,
+          "stop" : 1704699472793,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472794,
+          "stop" : 1704699472803,
+          "duration" : 9
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472804,
+          "stop" : 1704699472820,
+          "duration" : 16
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "ac4877c898b45092",
+          "name" : "table",
+          "source" : "ac4877c898b45092.csv",
+          "type" : "text/csv",
+          "size" : 65
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472821,
+          "stop" : 1704699472839,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472839,
+          "stop" : 1704699472849,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472850,
+          "stop" : 1704699472907,
+          "duration" : 57
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a2867383c3e08d65",
+          "name" : "table",
+          "source" : "a2867383c3e08d65.csv",
+          "type" : "text/csv",
+          "size" : 47
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472907,
+          "stop" : 1704699472924,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472925,
+          "stop" : 1704699472935,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699472936,
+          "stop" : 1704699473002,
+          "duration" : 66
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "aa851dca2dc58acc",
+          "name" : "table",
+          "source" : "aa851dca2dc58acc.csv",
+          "type" : "text/csv",
+          "size" : 43
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473003,
+          "stop" : 1704699473020,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473021,
+          "stop" : 1704699473031,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473032,
+          "stop" : 1704699473054,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a54b9fa533ce040e",
+          "name" : "table",
+          "source" : "a54b9fa533ce040e.csv",
+          "type" : "text/csv",
+          "size" : 51
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473055,
+          "stop" : 1704699473072,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473073,
+          "stop" : 1704699473083,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473084,
+          "stop" : 1704699473110,
+          "duration" : 26
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "3b468be2817b6528",
+          "name" : "table",
+          "source" : "3b468be2817b6528.csv",
+          "type" : "text/csv",
+          "size" : 39
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473111,
+          "stop" : 1704699473129,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473130,
+          "stop" : 1704699473140,
+          "duration" : 10
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473141,
+          "stop" : 1704699473188,
+          "duration" : 47
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "a3510260f6840784",
+          "name" : "table",
+          "source" : "a3510260f6840784.csv",
+          "type" : "text/csv",
+          "size" : 66
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473188,
+          "stop" : 1704699473206,
+          "duration" : 18
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473206,
+          "stop" : 1704699473217,
+          "duration" : 11
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473218,
+          "stop" : 1704699473253,
+          "duration" : 35
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "2bea1b2f089845cf",
+          "name" : "table",
+          "source" : "2bea1b2f089845cf.csv",
+          "type" : "text/csv",
+          "size" : 44
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473254,
+          "stop" : 1704699473271,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I finish line editing in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473272,
+          "stop" : 1704699473281,
+          "duration" : 9
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I go to line in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473282,
+          "stop" : 1704699473317,
+          "duration" : 35
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "89a867f10db91162",
+          "name" : "table",
+          "source" : "89a867f10db91162.csv",
+          "type" : "text/csv",
+          "size" : 46
+        } ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "And I remove \"Use\" checkbox in \"FunctionalOptions\" table",
+        "time" : {
+          "start" : 1704699473317,
+          "stop" : 1704699473334,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "FunctionalOptions"
+        }, {
+          "name" : "Парам2",
+          "value" : "Use"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I click \"Save\" button",
+        "time" : {
+          "start" : 1704699473334,
+          "stop" : 1704699473349,
+          "duration" : 15
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "Парам1",
+          "value" : "Save"
+        } ],
+        "stepsCount" : 0,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "And I close current window",
+        "time" : {
+          "start" : 1704699473349,
+          "stop" : 1704699473504,
+          "duration" : 155
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "* Disable LinkedRowsIntegrity",
+        "time" : {
+          "start" : 1704699473505,
+          "stop" : 1704699473756,
+          "duration" : 251
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699473505,
+            "stop" : 1704699473756,
+            "duration" : 251
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "c37a2f9d39bc12a6",
+            "name" : "table",
+            "source" : "c37a2f9d39bc12a6.csv",
+            "type" : "text/csv",
+            "size" : 54
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 36,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 11
+    }, {
+      "name" : "* Load info",
+      "time" : {
+        "start" : 1704699473768,
+        "stop" : 1704699480624,
+        "duration" : 6856
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "When Create catalog ObjectStatuses objects",
+        "time" : {
+          "start" : 1704699473768,
+          "stop" : 1704699474148,
+          "duration" : 380
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"ObjectStatuses\" objects:",
+          "time" : {
+            "start" : 1704699473768,
+            "stop" : 1704699474148,
+            "duration" : 380
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "1a249761cf80f7d",
+            "name" : "table",
+            "source" : "1a249761cf80f7d.csv",
+            "type" : "text/csv",
+            "size" : 9711
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ObjectStatuses"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog ItemKeys objects",
+        "time" : {
+          "start" : 1704699474156,
+          "stop" : 1704699474615,
+          "duration" : 459
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"ItemKeys\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699474156,
+            "stop" : 1704699474368,
+            "duration" : 212
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "253d8eb1ffe59962",
+            "name" : "table",
+            "source" : "253d8eb1ffe59962.csv",
+            "type" : "text/csv",
+            "size" : 10610
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ItemKeys"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"AddAttributes\":",
+          "time" : {
+            "start" : 1704699474381,
+            "stop" : 1704699474531,
+            "duration" : 150
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "53689efaece596a9",
+            "name" : "table",
+            "source" : "53689efaece596a9.csv",
+            "type" : "text/csv",
+            "size" : 12005
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"SpecificationAffectPricingMD5\":",
+          "time" : {
+            "start" : 1704699474537,
+            "stop" : 1704699474615,
+            "duration" : 78
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "8a45134599a5d357",
+            "name" : "table",
+            "source" : "8a45134599a5d357.csv",
+            "type" : "text/csv",
+            "size" : 3395
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "SpecificationAffectPricingMD5"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3
+      }, {
+        "name" : "When Create catalog ItemTypes objects",
+        "time" : {
+          "start" : 1704699474619,
+          "stop" : 1704699474811,
+          "duration" : 192
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"ItemTypes\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699474619,
+            "stop" : 1704699474735,
+            "duration" : 116
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "cdb6ad5e72394257",
+            "name" : "table",
+            "source" : "cdb6ad5e72394257.csv",
+            "type" : "text/csv",
+            "size" : 2207
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ItemTypes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"AvailableAttributes\":",
+          "time" : {
+            "start" : 1704699474738,
+            "stop" : 1704699474811,
+            "duration" : 73
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b73f8ff5ddd8a2af",
+            "name" : "table",
+            "source" : "b73f8ff5ddd8a2af.csv",
+            "type" : "text/csv",
+            "size" : 2196
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AvailableAttributes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2
+      }, {
+        "name" : "When Create catalog Units objects",
+        "time" : {
+          "start" : 1704699474814,
+          "stop" : 1704699474909,
+          "duration" : 95
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Units\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699474814,
+            "stop" : 1704699474909,
+            "duration" : 95
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "cfa4788c75dd4646",
+            "name" : "table",
+            "source" : "cfa4788c75dd4646.csv",
+            "type" : "text/csv",
+            "size" : 1624
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Units"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Items objects",
+        "time" : {
+          "start" : 1704699474914,
+          "stop" : 1704699475120,
+          "duration" : 206
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Items\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699474914,
+            "stop" : 1704699475028,
+            "duration" : 114
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "3f6fff36abee49b",
+            "name" : "table",
+            "source" : "3f6fff36abee49b.csv",
+            "type" : "text/csv",
+            "size" : 5003
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Items"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"AddAttributes\":",
+          "time" : {
+            "start" : 1704699475029,
+            "stop" : 1704699475066,
+            "duration" : 37
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "c6a91fb86bcb2c6",
+            "name" : "table",
+            "source" : "c6a91fb86bcb2c6.csv",
+            "type" : "text/csv",
+            "size" : 791
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I check or create catalog \"Items\" objects:",
+          "time" : {
+            "start" : 1704699475068,
+            "stop" : 1704699475120,
+            "duration" : 52
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "7a9b83bc2fe6de05",
+            "name" : "table",
+            "source" : "7a9b83bc2fe6de05.csv",
+            "type" : "text/csv",
+            "size" : 505
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Items"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3
+      }, {
+        "name" : "When Create catalog PriceTypes objects",
+        "time" : {
+          "start" : 1704699475124,
+          "stop" : 1704699475239,
+          "duration" : 115
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"PriceTypes\" objects:",
+          "time" : {
+            "start" : 1704699475124,
+            "stop" : 1704699475239,
+            "duration" : 115
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "7d1ca252de0075e4",
+            "name" : "table",
+            "source" : "7d1ca252de0075e4.csv",
+            "type" : "text/csv",
+            "size" : 4109
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "PriceTypes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Specifications objects",
+        "time" : {
+          "start" : 1704699475242,
+          "stop" : 1704699475472,
+          "duration" : 230
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Specifications\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699475242,
+            "stop" : 1704699475317,
+            "duration" : 75
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b37c0e858bc484ea",
+            "name" : "table",
+            "source" : "b37c0e858bc484ea.csv",
+            "type" : "text/csv",
+            "size" : 2056
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Specifications"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"DataSet\":",
+          "time" : {
+            "start" : 1704699475324,
+            "stop" : 1704699475406,
+            "duration" : 82
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "c108612321e277d",
+            "name" : "table",
+            "source" : "c108612321e277d.csv",
+            "type" : "text/csv",
+            "size" : 14055
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "DataSet"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"DataQuantity\":",
+          "time" : {
+            "start" : 1704699475411,
+            "stop" : 1704699475472,
+            "duration" : 61
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "347a6d5419265996",
+            "name" : "table",
+            "source" : "347a6d5419265996.csv",
+            "type" : "text/csv",
+            "size" : 2252
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "DataQuantity"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3
+      }, {
+        "name" : "When Create chart of characteristic types AddAttributeAndProperty objects",
+        "time" : {
+          "start" : 1704699475477,
+          "stop" : 1704699475575,
+          "duration" : 98
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create chart of characteristic types \"AddAttributeAndProperty\" objects:",
+          "time" : {
+            "start" : 1704699475477,
+            "stop" : 1704699475575,
+            "duration" : 98
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "8934462c7df5f361",
+            "name" : "table",
+            "source" : "8934462c7df5f361.csv",
+            "type" : "text/csv",
+            "size" : 3071
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributeAndProperty"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog AddAttributeAndPropertySets objects",
+        "time" : {
+          "start" : 1704699475721,
+          "stop" : 1704699476063,
+          "duration" : 342
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"AddAttributeAndPropertySets\" objects:",
+          "time" : {
+            "start" : 1704699475721,
+            "stop" : 1704699476015,
+            "duration" : 294
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "cb102709a8a4f0d6",
+            "name" : "table",
+            "source" : "cb102709a8a4f0d6.csv",
+            "type" : "text/csv",
+            "size" : 6550
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributeAndPropertySets"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"Attributes\":",
+          "time" : {
+            "start" : 1704699476018,
+            "stop" : 1704699476063,
+            "duration" : 45
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "d147c282a294b56c",
+            "name" : "table",
+            "source" : "d147c282a294b56c.csv",
+            "type" : "text/csv",
+            "size" : 2877
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Attributes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2
+      }, {
+        "name" : "When Create catalog AddAttributeAndPropertyValues objects",
+        "time" : {
+          "start" : 1704699476074,
+          "stop" : 1704699476259,
+          "duration" : 185
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"AddAttributeAndPropertyValues\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476074,
+            "stop" : 1704699476259,
+            "duration" : 185
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "bbea13029510c09f",
+            "name" : "table",
+            "source" : "bbea13029510c09f.csv",
+            "type" : "text/csv",
+            "size" : 10980
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributeAndPropertyValues"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Currencies objects",
+        "time" : {
+          "start" : 1704699476261,
+          "stop" : 1704699476332,
+          "duration" : 71
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"Currencies\" objects:",
+          "time" : {
+            "start" : 1704699476261,
+            "stop" : 1704699476332,
+            "duration" : 71
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "642541b983df3395",
+            "name" : "table",
+            "source" : "642541b983df3395.csv",
+            "type" : "text/csv",
+            "size" : 634
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Currencies"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Companies objects (Main company)",
+        "time" : {
+          "start" : 1704699476333,
+          "stop" : 1704699476439,
+          "duration" : 106
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Companies\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476333,
+            "stop" : 1704699476398,
+            "duration" : 65
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "8bdf65ba39f47891",
+            "name" : "table",
+            "source" : "8bdf65ba39f47891.csv",
+            "type" : "text/csv",
+            "size" : 778
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Companies"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section  \"Currencies\":",
+          "time" : {
+            "start" : 1704699476401,
+            "stop" : 1704699476439,
+            "duration" : 38
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "d93b702850f38a10",
+            "name" : "table",
+            "source" : "d93b702850f38a10.csv",
+            "type" : "text/csv",
+            "size" : 860
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Currencies"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2
+      }, {
+        "name" : "When Create catalog Countries objects",
+        "time" : {
+          "start" : 1704699476441,
+          "stop" : 1704699476494,
+          "duration" : 53
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"Countries\" objects:",
+          "time" : {
+            "start" : 1704699476441,
+            "stop" : 1704699476494,
+            "duration" : 53
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "380bbf512ff2879c",
+            "name" : "table",
+            "source" : "380bbf512ff2879c.csv",
+            "type" : "text/csv",
+            "size" : 465
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Countries"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Stores objects",
+        "time" : {
+          "start" : 1704699476497,
+          "stop" : 1704699476574,
+          "duration" : 77
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Stores\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476497,
+            "stop" : 1704699476574,
+            "duration" : 77
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "16ab0ffc53983733",
+            "name" : "table",
+            "source" : "16ab0ffc53983733.csv",
+            "type" : "text/csv",
+            "size" : 1173
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Stores"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Partners objects (Ferron BP)",
+        "time" : {
+          "start" : 1704699476576,
+          "stop" : 1704699476622,
+          "duration" : 46
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Partners\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476576,
+            "stop" : 1704699476622,
+            "duration" : 46
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "95596ea66a849ea",
+            "name" : "table",
+            "source" : "95596ea66a849ea.csv",
+            "type" : "text/csv",
+            "size" : 473
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Partners"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Partners objects (Kalipso)",
+        "time" : {
+          "start" : 1704699476623,
+          "stop" : 1704699476668,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Partners\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476623,
+            "stop" : 1704699476668,
+            "duration" : 45
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "6224ba94bd3abb9c",
+            "name" : "table",
+            "source" : "6224ba94bd3abb9c.csv",
+            "type" : "text/csv",
+            "size" : 469
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Partners"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Companies objects (partners company)",
+        "time" : {
+          "start" : 1704699476673,
+          "stop" : 1704699476780,
+          "duration" : 107
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Companies\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476673,
+            "stop" : 1704699476780,
+            "duration" : 107
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "5ca7b11047ebedb9",
+            "name" : "table",
+            "source" : "5ca7b11047ebedb9.csv",
+            "type" : "text/csv",
+            "size" : 4695
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Companies"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create information register PartnerSegments records",
+        "time" : {
+          "start" : 1704699476784,
+          "stop" : 1704699476849,
+          "duration" : 65
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create information register \"PartnerSegments\" records:",
+          "time" : {
+            "start" : 1704699476784,
+            "stop" : 1704699476849,
+            "duration" : 65
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "63e7a583951f7cf4",
+            "name" : "table",
+            "source" : "63e7a583951f7cf4.csv",
+            "type" : "text/csv",
+            "size" : 3006
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "PartnerSegments"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog PartnerSegments objects",
+        "time" : {
+          "start" : 1704699476851,
+          "stop" : 1704699476921,
+          "duration" : 70
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"PartnerSegments\" objects:",
+          "time" : {
+            "start" : 1704699476851,
+            "stop" : 1704699476921,
+            "duration" : 70
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "f7c2ae42c9bead04",
+            "name" : "table",
+            "source" : "f7c2ae42c9bead04.csv",
+            "type" : "text/csv",
+            "size" : 862
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "PartnerSegments"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Agreements objects",
+        "time" : {
+          "start" : 1704699476928,
+          "stop" : 1704699477118,
+          "duration" : 190
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Agreements\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699476928,
+            "stop" : 1704699477118,
+            "duration" : 190
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "50f9c4eec91ebfb5",
+            "name" : "table",
+            "source" : "50f9c4eec91ebfb5.csv",
+            "type" : "text/csv",
+            "size" : 19741
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Agreements"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create chart of characteristic types CurrencyMovementType objects",
+        "time" : {
+          "start" : 1704699477120,
+          "stop" : 1704699477192,
+          "duration" : 72
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create chart of characteristic types \"CurrencyMovementType\" objects:",
+          "time" : {
+            "start" : 1704699477120,
+            "stop" : 1704699477192,
+            "duration" : 72
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "faed05262092fa89",
+            "name" : "table",
+            "source" : "faed05262092fa89.csv",
+            "type" : "text/csv",
+            "size" : 2343
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "CurrencyMovementType"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog TaxRates objects",
+        "time" : {
+          "start" : 1704699477194,
+          "stop" : 1704699477258,
+          "duration" : 64
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"TaxRates\" objects:",
+          "time" : {
+            "start" : 1704699477194,
+            "stop" : 1704699477258,
+            "duration" : 64
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "b4222dbebebffb4b",
+            "name" : "table",
+            "source" : "b4222dbebebffb4b.csv",
+            "type" : "text/csv",
+            "size" : 612
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "TaxRates"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Taxes objects",
+        "time" : {
+          "start" : 1704699477258,
+          "stop" : 1704699477380,
+          "duration" : 122
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"Taxes\" objects:",
+          "time" : {
+            "start" : 1704699477258,
+            "stop" : 1704699477308,
+            "duration" : 50
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "f4ec22015daccbb1",
+            "name" : "table",
+            "source" : "f4ec22015daccbb1.csv",
+            "type" : "text/csv",
+            "size" : 236
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Taxes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"TaxRates\":",
+          "time" : {
+            "start" : 1704699477310,
+            "stop" : 1704699477341,
+            "duration" : 31
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "d087f3534af6c4a0",
+            "name" : "table",
+            "source" : "d087f3534af6c4a0.csv",
+            "type" : "text/csv",
+            "size" : 680
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "TaxRates"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"UseDocuments\":",
+          "time" : {
+            "start" : 1704699477345,
+            "stop" : 1704699477380,
+            "duration" : 35
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "9ee855c7efae986e",
+            "name" : "table",
+            "source" : "9ee855c7efae986e.csv",
+            "type" : "text/csv",
+            "size" : 1284
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "UseDocuments"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3
+      }, {
+        "name" : "When Create information register TaxSettings records",
+        "time" : {
+          "start" : 1704699477381,
+          "stop" : 1704699477426,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create information register \"TaxSettings\" records:",
+          "time" : {
+            "start" : 1704699477381,
+            "stop" : 1704699477426,
+            "duration" : 45
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "c274be944d946082",
+            "name" : "table",
+            "source" : "c274be944d946082.csv",
+            "type" : "text/csv",
+            "size" : 613
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "TaxSettings"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create information register PricesByItemKeys records",
+        "time" : {
+          "start" : 1704699477430,
+          "stop" : 1704699479639,
+          "duration" : 2209
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create document \"PriceList\" objects:",
+          "time" : {
+            "start" : 1704699477430,
+            "stop" : 1704699477524,
+            "duration" : 94
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "9feba26d252c85c",
+            "name" : "table",
+            "source" : "9feba26d252c85c.csv",
+            "type" : "text/csv",
+            "size" : 2461
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "PriceList"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"ItemKeyList\":",
+          "time" : {
+            "start" : 1704699477544,
+            "stop" : 1704699477659,
+            "duration" : 115
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "6263da1bf611156b",
+            "name" : "table",
+            "source" : "6263da1bf611156b.csv",
+            "type" : "text/csv",
+            "size" : 31823
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ItemKeyList"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699477659,
+            "stop" : 1704699477941,
+            "duration" : 282
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "bae9e92b7435060f",
+            "name" : "table",
+            "source" : "bae9e92b7435060f.csv",
+            "type" : "text/csv",
+            "size" : 88
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699477942,
+            "stop" : 1704699478204,
+            "duration" : 262
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "abf7933bcba56c8c",
+            "name" : "table",
+            "source" : "abf7933bcba56c8c.csv",
+            "type" : "text/csv",
+            "size" : 88
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699478205,
+            "stop" : 1704699478435,
+            "duration" : 230
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "e58c374302a388a0",
+            "name" : "table",
+            "source" : "e58c374302a388a0.csv",
+            "type" : "text/csv",
+            "size" : 88
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699478436,
+            "stop" : 1704699478676,
+            "duration" : 240
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "65373def0aee96ac",
+            "name" : "table",
+            "source" : "65373def0aee96ac.csv",
+            "type" : "text/csv",
+            "size" : 88
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699478677,
+            "stop" : 1704699478908,
+            "duration" : 231
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "33620b5c588c738d",
+            "name" : "table",
+            "source" : "33620b5c588c738d.csv",
+            "type" : "text/csv",
+            "size" : 89
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699478908,
+            "stop" : 1704699479148,
+            "duration" : 240
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "5d501137a277f57c",
+            "name" : "table",
+            "source" : "5d501137a277f57c.csv",
+            "type" : "text/csv",
+            "size" : 89
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699479149,
+            "stop" : 1704699479387,
+            "duration" : 238
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "9ee9638c58ffbdd6",
+            "name" : "table",
+            "source" : "9ee9638c58ffbdd6.csv",
+            "type" : "text/csv",
+            "size" : 89
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I execute 1C:Enterprise script at server",
+          "time" : {
+            "start" : 1704699479388,
+            "stop" : 1704699479639,
+            "duration" : 251
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "c97f4c92f9a5a4a5",
+            "name" : "table",
+            "source" : "c97f4c92f9a5a4a5.csv",
+            "type" : "text/csv",
+            "size" : 89
+          } ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 10,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 10
+      }, {
+        "name" : "When Create catalog IntegrationSettings objects",
+        "time" : {
+          "start" : 1704699479641,
+          "stop" : 1704699480079,
+          "duration" : 438
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"IntegrationSettings\" objects:",
+          "time" : {
+            "start" : 1704699479641,
+            "stop" : 1704699479710,
+            "duration" : 69
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "adc5c9a037d9c9f2",
+            "name" : "table",
+            "source" : "adc5c9a037d9c9f2.csv",
+            "type" : "text/csv",
+            "size" : 1231
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "IntegrationSettings"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"ConnectionSetting\":",
+          "time" : {
+            "start" : 1704699479715,
+            "stop" : 1704699479919,
+            "duration" : 204
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "1fabacf54868aa09",
+            "name" : "table",
+            "source" : "1fabacf54868aa09.csv",
+            "type" : "text/csv",
+            "size" : 2163
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ConnectionSetting"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"ConnectionSettingTest\":",
+          "time" : {
+            "start" : 1704699479926,
+            "stop" : 1704699480079,
+            "duration" : 153
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "ea96f4465425e1a3",
+            "name" : "table",
+            "source" : "ea96f4465425e1a3.csv",
+            "type" : "text/csv",
+            "size" : 2463
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ConnectionSettingTest"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 3,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 3
+      }, {
+        "name" : "When Create information register ItemSegments records (discount)",
+        "time" : {
+          "start" : 1704699480081,
+          "stop" : 1704699480174,
+          "duration" : 93
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"ItemSegments\" objects:",
+          "time" : {
+            "start" : 1704699480081,
+            "stop" : 1704699480128,
+            "duration" : 47
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "1c4e40b313b1c782",
+            "name" : "table",
+            "source" : "1c4e40b313b1c782.csv",
+            "type" : "text/csv",
+            "size" : 303
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ItemSegments"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I check or create information register \"ItemSegments\" records:",
+          "time" : {
+            "start" : 1704699480130,
+            "stop" : 1704699480174,
+            "duration" : 44
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "85d49680c9cf1239",
+            "name" : "table",
+            "source" : "85d49680c9cf1239.csv",
+            "type" : "text/csv",
+            "size" : 719
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "ItemSegments"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2
+      }, {
+        "name" : "When Create information register CurrencyRates records",
+        "time" : {
+          "start" : 1704699480181,
+          "stop" : 1704699480261,
+          "duration" : 80
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create information register \"CurrencyRates\" records:",
+          "time" : {
+            "start" : 1704699480181,
+            "stop" : 1704699480261,
+            "duration" : 80
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "fbd5bb6b31cead9a",
+            "name" : "table",
+            "source" : "fbd5bb6b31cead9a.csv",
+            "type" : "text/csv",
+            "size" : 6878
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "CurrencyRates"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog CashAccounts objects",
+        "time" : {
+          "start" : 1704699480264,
+          "stop" : 1704699480358,
+          "duration" : 94
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create catalog \"CashAccounts\" objects:",
+          "time" : {
+            "start" : 1704699480264,
+            "stop" : 1704699480358,
+            "duration" : 94
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "506843e50f8c98ef",
+            "name" : "table",
+            "source" : "506843e50f8c98ef.csv",
+            "type" : "text/csv",
+            "size" : 3136
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "CashAccounts"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create information register Taxes records (VAT)",
+        "time" : {
+          "start" : 1704699480359,
+          "stop" : 1704699480393,
+          "duration" : 34
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create information register \"Taxes\" records:",
+          "time" : {
+            "start" : 1704699480359,
+            "stop" : 1704699480393,
+            "duration" : 34
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "725ba0ed1d88a202",
+            "name" : "table",
+            "source" : "725ba0ed1d88a202.csv",
+            "type" : "text/csv",
+            "size" : 212
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Taxes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 1
+      }, {
+        "name" : "When Create catalog Partners objects",
+        "time" : {
+          "start" : 1704699480400,
+          "stop" : 1704699480624,
+          "duration" : 224
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "And I check or create for catalog \"Partners\" objects with Data Exchange Load parameter set to true:",
+          "time" : {
+            "start" : 1704699480400,
+            "stop" : 1704699480569,
+            "duration" : 169
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "8c789683643da96",
+            "name" : "table",
+            "source" : "8c789683643da96.csv",
+            "type" : "text/csv",
+            "size" : 6897
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "Partners"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        }, {
+          "name" : "And I refill object tabular section \"AddAttributes\":",
+          "time" : {
+            "start" : 1704699480571,
+            "stop" : 1704699480624,
+            "duration" : 53
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ {
+            "uid" : "2435f4c9c160028b",
+            "name" : "table",
+            "source" : "2435f4c9c160028b.csv",
+            "type" : "text/csv",
+            "size" : 1314
+          } ],
+          "parameters" : [ {
+            "name" : "Парам1",
+            "value" : "AddAttributes"
+          } ],
+          "stepsCount" : 0,
+          "hasContent" : true,
+          "shouldDisplayMessage" : false,
+          "attachmentsCount" : 1
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 2,
+        "hasContent" : true,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 2
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 86,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 55
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 124,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 66
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "_03000 preparation (Discount)"
+  }, {
+    "name" : "feature",
+    "value" : "_0300Discount"
+  }, {
+    "name" : "epic",
+    "value" : "special offers"
+  }, {
+    "name" : "suite",
+    "value" : "_0300Discount"
+  }, {
+    "name" : "tag",
+    "value" : "Discount"
+  }, {
+    "name" : "tag",
+    "value" : "Positive"
+  }, {
+    "name" : "tag",
+    "value" : "tree"
+  }, {
+    "name" : "thread",
+    "value" : "Discount"
+  }, {
+    "name" : "package",
+    "value" : "_0300 Discount"
+  }, {
+    "name" : "host",
+    "value" : "TeamAgent"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "Discount", "Positive", "tree" ]
+  },
+  "source" : "c7758e64722a762.json",
+  "parameterValues" : [ ]
+}

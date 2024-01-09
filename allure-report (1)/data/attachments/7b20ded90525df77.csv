@@ -1,0 +1,5 @@
+﻿"Ref","DeletionMark","Parent","Type","Icon","isIconSet","FinancialMovementType","Description_en","Description_hash","Description_ru","Description_tr","SourceNodeID"
+"e1cib/data/Catalog.PaymentTypes?ref=b7a6804cd0be6fd011ee3c2c4abb0ba4","False","","Enum.PaymentTypes.Certificate","ValueStorage:AQEIAAAAAAAAAO+7v3siVSJ9","False","e1cib/data/Catalog.ExpenseAndRevenueTypes?ref=aa78120ed98fbced11eaf114c59ef02b","Certificate","","","",""
+"e1cib/data/Catalog.PaymentTypes?ref=aa78120ed92fbced11eaf12effe70fcf","False","","Enum.PaymentTypes.Cash","ValueStorage:AQEIAAAAAAAAAO+7v3siVSJ9","False","","Cash","","","",""
+"e1cib/data/Catalog.PaymentTypes?ref=aa78120ed92fbced11eaf12effe70fd0","False","","Enum.PaymentTypes.Card","ValueStorage:AQEIAAAAAAAAAO+7v3siVSJ9","False","","Card 01","","","",""
+"e1cib/data/Catalog.PaymentTypes?ref=aa78120ed92fbced11eaf12effe70fd1","False","","Enum.PaymentTypes.Card","ValueStorage:AQEIAAAAAAAAAO+7v3siVSJ9","False","","Card 02","","","",""

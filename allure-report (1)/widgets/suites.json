@@ -1,0 +1,92 @@
+{
+  "total" : 8,
+  "items" : [ {
+    "uid" : "e47c7f7fd91208c1d2476fadaa631a51",
+    "name" : "_0300Discount",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 32,
+      "unknown" : 0,
+      "total" : 32
+    }
+  }, {
+    "uid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+    "name" : "_0335StationaryOrderDiscountMax",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 32,
+      "unknown" : 0,
+      "total" : 32
+    }
+  }, {
+    "uid" : "11142c7d593489f056db066f94288dd4",
+    "name" : "_0320StationaryOrderDiscountMinimum",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 26,
+      "unknown" : 0,
+      "total" : 26
+    }
+  }, {
+    "uid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+    "name" : "_0349DiscountPOS",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
+    "uid" : "b4409054c0fb98912281d4cb868266e7",
+    "name" : "_0334StationaryOrderDiscountRange",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "bea57209e638d054cf448ceb2e113f12",
+    "name" : "_0340PurchaseDiscount",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "027270ba533c72b9c982977385e8fb3e",
+    "name" : "_0348SalesReturnDiscount",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "a4e21e7e8adaf5f5cf859fe894cbc4f6",
+    "name" : "_0345RetailSalesReturnReceiptDiscount",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

@@ -1,0 +1,8 @@
+﻿"Ref","DeletionMark","Item","Quantity","BasisUnit","UOM","Description_en","Description_hash","Description_ru","Description_tr"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","False","","1","","","pcs","","","adet"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1863","False","e1cib/data/Catalog.Items?ref=aa78120ed92fbced11eaf115bcc9c5f8","4","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","box (4 pcs)","","","box (4 adet)"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1864","False","","8","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","box (8 pcs)","","","box (8 adet)"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1865","False","","16","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","box (16 pcs)","","","box (16 adet)"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf115bcc9c60a","False","e1cib/data/Catalog.Items?ref=aa78120ed92fbced11eaf115bcc9c5f7","8","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","High shoes box (8 pcs)","","","High shoes box (8 adet) TR"
+"e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf115bcc9c60b","False","e1cib/data/Catalog.Items?ref=aa78120ed92fbced11eaf115bcc9c5f6","12","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","Boots (12 pcs)","","","Boots (12 adet) TR"
+"e1cib/data/Catalog.Units?ref=b75dad46e66c4c2c11eb393335f89c15","False","e1cib/data/Catalog.Items?ref=aa78120ed92fbced11eaf115bcc9c5f3","8","e1cib/data/Catalog.Units?ref=aa78120ed92fbced11eaf113ba6c1862","","box Dress (8 pcs)","","","box Dress (8 pcs) TR"

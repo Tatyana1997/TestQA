@@ -1,0 +1,1623 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "_0300Discount",
+    "children" : [ {
+      "name" : "_03000 preparation (Discount)",
+      "uid" : "c7758e64722a762",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699460385,
+        "stop" : 1704699480624,
+        "duration" : 20239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_0300001 check preparation",
+      "uid" : "c23ae0a366729a69",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699480625,
+        "stop" : 1704699481207,
+        "duration" : 582
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030001 add Plugin SpecialMessage",
+      "uid" : "1de930c36d1018b9",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699481208,
+        "stop" : 1704699484079,
+        "duration" : 2871
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030002 add Plugin DocumentDiscount",
+      "uid" : "c6f0cd563d85821d",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699484079,
+        "stop" : 1704699486095,
+        "duration" : 2016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030003 add Plugin SpecialRules",
+      "uid" : "ec7c78d61d08caf9",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699486095,
+        "stop" : 1704699488134,
+        "duration" : 2039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030004 add Plugin RangeDiscount",
+      "uid" : "795371b9caec5d05",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699488134,
+        "stop" : 1704699490157,
+        "duration" : 2023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030005 add Plugin FivePlusOne",
+      "uid" : "c1370b0eb66ec0ec",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699490157,
+        "stop" : 1704699502736,
+        "duration" : 12579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_0300051 add Plugin TwoPlusPartOfThird",
+      "uid" : "446b12007d101ff8",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699502736,
+        "stop" : 1704699505105,
+        "duration" : 2369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030006 create Special Offer Types (price type)",
+      "uid" : "766b85e436c0689c",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699505105,
+        "stop" : 1704699512863,
+        "duration" : 7758
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030007 create Special Offer Types special message (Notification)",
+      "uid" : "a84e397116b36ef9",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699512863,
+        "stop" : 1704699515171,
+        "duration" : 2308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030008 create Special Offer Rule RangeDiscount",
+      "uid" : "f062dc091a9966a0",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699515171,
+        "stop" : 1704699561034,
+        "duration" : 45863
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030009 create Special Offer Rule Present Discount",
+      "uid" : "ccaa1b97401f694a",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699561034,
+        "stop" : 1704699628879,
+        "duration" : 67845
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030010 create Special Offer Types special message (DialogBox)",
+      "uid" : "b4c5c7c2dd55d324",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699628879,
+        "stop" : 1704699631307,
+        "duration" : 2428
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030011 create Special Offer Types Present Discount",
+      "uid" : "dc719262b531804",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699631307,
+        "stop" : 1704699720289,
+        "duration" : 88982
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030012 create Special Offer Types Range Discount",
+      "uid" : "f7fbbb8884f4d79",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699720290,
+        "stop" : 1704699748525,
+        "duration" : 28235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030013 create Special Offer Rules (Partner term)",
+      "uid" : "1b1c7dcb4a907bab",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699748526,
+        "stop" : 1704699760189,
+        "duration" : 11663
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030014 create Special Offer (group Maximum by row/Special Offers Maximum by row)",
+      "uid" : "20a10f448acc5a14",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699760189,
+        "stop" : 1704699774723,
+        "duration" : 14534
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030015 create Special Offer (group Sum)",
+      "uid" : "9f0f6242e50fb4d",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699774723,
+        "stop" : 1704699786508,
+        "duration" : 11785
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030016 create Special Offer (group Minimum )",
+      "uid" : "a5b037a31176fff1",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699786508,
+        "stop" : 1704699798291,
+        "duration" : 11783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030017 create Special Offer (manual) Discount Price 1-2 (discount price, group maximum)",
+      "uid" : "e36766dd5a39464",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699798291,
+        "stop" : 1704699835517,
+        "duration" : 37226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030018 create Special Offer - Special Message (Notification)",
+      "uid" : "ffbb0cbb0ee7b55f",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699835517,
+        "stop" : 1704699855957,
+        "duration" : 20440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030019 create Special Offer - Special Message (DialogBox)",
+      "uid" : "42566523902e0a2a",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699855957,
+        "stop" : 1704699875422,
+        "duration" : 19465
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030020 create Special Offer, automatic use Discount Price 1-2 without Vat (discount price, group minimum)",
+      "uid" : "1d93de63a6a6aa8c",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699875422,
+        "stop" : 1704699905157,
+        "duration" : 29735
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030021 moving special offer from one group to another",
+      "uid" : "5b913058ea0b2e3a",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699905159,
+        "stop" : 1704699906639,
+        "duration" : 1480
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030022 create special offer group within another special offer group",
+      "uid" : "72760e5bf7d7dff3",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699906639,
+        "stop" : 1704699913698,
+        "duration" : 7059
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030023 moving a special offer inside another special offer (Parent change)",
+      "uid" : "2fa459f5aaaba474",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699913698,
+        "stop" : 1704699915498,
+        "duration" : 1800
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030024 create special offer Present Discount",
+      "uid" : "4b0d556dd87f0a54",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699915498,
+        "stop" : 1704699960907,
+        "duration" : 45409
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030025 create Range Discount",
+      "uid" : "79b9ddbb480bd902",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699960908,
+        "stop" : 1704699991081,
+        "duration" : 30173
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030026 create Document discount",
+      "uid" : "c5d037d97e41c32b",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699991081,
+        "stop" : 1704699997009,
+        "duration" : 5928
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030028 create group consistently",
+      "uid" : "565bade99ab3e3bf",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704699997009,
+        "stop" : 1704700009546,
+        "duration" : 12537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030030 create Discount coupon",
+      "uid" : "79cf2c1a4667b937",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700009546,
+        "stop" : 1704700015443,
+        "duration" : 5897
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_030031 create two plus part of third discount",
+      "uid" : "8d3c34a77d107b5b",
+      "parentUid" : "e47c7f7fd91208c1d2476fadaa631a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700015444,
+        "stop" : 1704700023348,
+        "duration" : 7904
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e47c7f7fd91208c1d2476fadaa631a51"
+  }, {
+    "name" : "_0320StationaryOrderDiscountMinimum",
+    "children" : [ {
+      "name" : "_032000 discount form",
+      "uid" : "e4ee76d3fe1112cd",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700023348,
+        "stop" : 1704700027816,
+        "duration" : 4468
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032001 discount calculation Discount 2 without Vat in the group Sum in Minimum and Discount 1 without Vat in the group Minimum (manual)",
+      "uid" : "fae1d754096676d7",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700027817,
+        "stop" : 1704700037281,
+        "duration" : 9464
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032002 discount calculation Discount 2 without Vat in the group Sum in Minimum and Discount 1 without Vat in the group Minimum (auto)",
+      "uid" : "5a3f96f161c67d93",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700037281,
+        "stop" : 1704700050889,
+        "duration" : 13608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032003 discount calculation Discount 2 without Vat in the main group Special Offers, Discount 1 without Vat in the group Sum in Minimum (auto)",
+      "uid" : "59a40169feca083d",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700050889,
+        "stop" : 1704700059027,
+        "duration" : 8138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032004 discount calculation Discount 1 without Vat in the main group Special Offers, Discount 2 without Vat in the group Sum in Minimum (auto)",
+      "uid" : "12034274c91ebac2",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700059028,
+        "stop" : 1704700067757,
+        "duration" : 8729
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032005 change Special offers main group Maximum by row to Minimum",
+      "uid" : "8ff0a3acbabe0c1e",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700067757,
+        "stop" : 1704700078598,
+        "duration" : 10841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032006 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "86cd4c77bf064916",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700078598,
+        "stop" : 1704700095181,
+        "duration" : 16583
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032007 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "f5de49263ab8e825",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700095182,
+        "stop" : 1704700105744,
+        "duration" : 10562
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032008 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "bcd2c705749c6091",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700105744,
+        "stop" : 1704700118951,
+        "duration" : 13207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032009 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "b7a9e88a0f9e6a4e",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700118951,
+        "stop" : 1704700135009,
+        "duration" : 16058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032010 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (2 auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "363ee2b541904a44",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700135010,
+        "stop" : 1704700151657,
+        "duration" : 16647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032011 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "f10e2cf0c5fee32f",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700151658,
+        "stop" : 1704700162440,
+        "duration" : 10782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032012 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "fcfc805eb7b32f2c",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700162440,
+        "stop" : 1704700175649,
+        "duration" : 13209
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032013 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "88b3b995d76172e2",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700175649,
+        "stop" : 1704700191690,
+        "duration" : 16041
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032014 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "b5dcb075e325e20a",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700191690,
+        "stop" : 1704700206951,
+        "duration" : 15261
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032015 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "543db6dcd05e5bdc",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700206951,
+        "stop" : 1704700216679,
+        "duration" : 9728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032016 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "28f9982842c86117",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700216679,
+        "stop" : 1704700233413,
+        "duration" : 16734
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032017 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "cbb79d216f3cded0",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700233414,
+        "stop" : 1704700243945,
+        "duration" : 10531
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032018 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "d7e61d23ff7afa7",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700243945,
+        "stop" : 1704700257312,
+        "duration" : 13367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032019 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "b2e54177508ce2f8",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700257313,
+        "stop" : 1704700268310,
+        "duration" : 10997
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032020 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "4ed4c1617eec1ef1",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700268310,
+        "stop" : 1704700282105,
+        "duration" : 13795
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032021 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "66a431d08b7e0712",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700282105,
+        "stop" : 1704700292684,
+        "duration" : 10579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032022 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "515dc53ff0b9fe1d",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700292684,
+        "stop" : 1704700306086,
+        "duration" : 13402
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032023 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "92ba898c0a1ae365",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700306087,
+        "stop" : 1704700321934,
+        "duration" : 15847
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032024 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "3edf24fab315dc5e",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700321935,
+        "stop" : 1704700335351,
+        "duration" : 13416
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_032025 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "98f9354b50a9d4a8",
+      "parentUid" : "11142c7d593489f056db066f94288dd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700335352,
+        "stop" : 1704700346316,
+        "duration" : 10964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "11142c7d593489f056db066f94288dd4"
+  }, {
+    "name" : "_0334StationaryOrderDiscountRange",
+    "children" : [ {
+      "name" : "_033401 preparation",
+      "uid" : "9f16c088bae33382",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700346316,
+        "stop" : 1704700361671,
+        "duration" : 15355
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033402 range discount calculation by line",
+      "uid" : "d6ca0f1cf91d8b0b",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700361671,
+        "stop" : 1704700374764,
+        "duration" : 13093
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033403 check of the minimum percentage of the range discount by lines",
+      "uid" : "8d790d4000020f1c",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700374764,
+        "stop" : 1704700390274,
+        "duration" : 15510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033404 check of the maximum percentage of the range discount by lines",
+      "uid" : "c778e660416b09e2",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700390275,
+        "stop" : 1704700404974,
+        "duration" : 14699
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033405 Range discount and Special price discount calculation",
+      "uid" : "2e919397e34a2e95",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700404974,
+        "stop" : 1704700418454,
+        "duration" : 13480
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033406 check the discount order Range discount and crowding out 2 price special offers",
+      "uid" : "12536b103af509fb",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700418454,
+        "stop" : 1704700431926,
+        "duration" : 13472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033407 range discount recalculation when the quantity of items in the order changes",
+      "uid" : "67ca4ec5bd0f181f",
+      "parentUid" : "b4409054c0fb98912281d4cb868266e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700431927,
+        "stop" : 1704700443624,
+        "duration" : 11697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b4409054c0fb98912281d4cb868266e7"
+  }, {
+    "name" : "_0335StationaryOrderDiscountMax",
+    "children" : [ {
+      "name" : "_033501 change in the main group Special offers rule Minimum to Maximum by row",
+      "uid" : "f64e3c614c592b84",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700443624,
+        "stop" : 1704700444838,
+        "duration" : 1214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033502 order creation discounted by price Discount Price 1 (price including VAT)",
+      "uid" : "7014d8a2ff571700",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700444839,
+        "stop" : 1704700451951,
+        "duration" : 7112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033503 order creation discounted by price Discount Price 2 (price including VAT)",
+      "uid" : "c45e619d4df3953a",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700451952,
+        "stop" : 1704700459276,
+        "duration" : 7324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033504 check the discount order in group Maximum (manual)",
+      "uid" : "4b69a082dd8c44ed",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700459277,
+        "stop" : 1704700466264,
+        "duration" : 6987
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033505 check the application of discounts Discount Price 1 without Vat (price not include VAT) - manual in the group Minimum and Discount Price 2 without Vat",
+      "uid" : "b15c90f3a6ec668e",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700466264,
+        "stop" : 1704700484450,
+        "duration" : 18186
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033506  check the application of discounts Discount Price 2 without Vat (price not include VAT)- manual in the group Minimum and Discount Price 1 without Vat",
+      "uid" : "182912a9e029fc1",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700484452,
+        "stop" : 1704700490759,
+        "duration" : 6307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033507 check the discount order in group Minimum (auto)",
+      "uid" : "a61170a5285679ed",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700490760,
+        "stop" : 1704700507809,
+        "duration" : 17049
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033508 check the discount order in group Maximum (auto)",
+      "uid" : "22c7f93ef9560f09",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700507809,
+        "stop" : 1704700518575,
+        "duration" : 10766
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033509 check the discount order in group Sum (auto discount by price type + message)",
+      "uid" : "151a43e0f9c42b48",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700518576,
+        "stop" : 1704700530967,
+        "duration" : 12391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033510 check the discount order in group Sum 2 auto message + price type discount",
+      "uid" : "694ae962d51c4f0f",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700530967,
+        "stop" : 1704700549047,
+        "duration" : 18080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033511 check the discount order in group Sum 2 auto message",
+      "uid" : "4a72bc3cb4ff4e8f",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700549048,
+        "stop" : 1704700563469,
+        "duration" : 14421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033512 check the discount order in group Minimum (manual)",
+      "uid" : "75c99fe4bea66c84",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700563470,
+        "stop" : 1704700570632,
+        "duration" : 7162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033513 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "2970ee49a1deb176",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700570633,
+        "stop" : 1704700589935,
+        "duration" : 19302
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033514 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "cc04b396b56a24e7",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700589935,
+        "stop" : 1704700600899,
+        "duration" : 10964
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033515 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "240a9d0e4b1b242c",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700600899,
+        "stop" : 1704700614536,
+        "duration" : 13637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033516 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "c4ae624fd393c51b",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700614536,
+        "stop" : 1704700632007,
+        "duration" : 17471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033517 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (2 auto discount), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "e967203580fccf9e",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700632007,
+        "stop" : 1704700650316,
+        "duration" : 18309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033518 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "b505768c9700cf1a",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700650316,
+        "stop" : 1704700661235,
+        "duration" : 10919
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033519 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "71f406f2ea7dc947",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700661235,
+        "stop" : 1704700677501,
+        "duration" : 16266
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033520 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "9b711877656205b5",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700677501,
+        "stop" : 1704700694161,
+        "duration" : 16660
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033521 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "6ed71892ee9f8577",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700694162,
+        "stop" : 1704700709190,
+        "duration" : 15028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033522 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "40599a408bfd542b",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700709191,
+        "stop" : 1704700720388,
+        "duration" : 11197
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033523 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "b0d513eb234ea7ba",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700720388,
+        "stop" : 1704700738650,
+        "duration" : 18262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033524 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "25ecb487644f5774",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700738650,
+        "stop" : 1704700749234,
+        "duration" : 10584
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033525 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "917cd5aa17983d9b",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700749234,
+        "stop" : 1704700764867,
+        "duration" : 15633
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033526 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "2d465b691d9b8166",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700764867,
+        "stop" : 1704700775039,
+        "duration" : 10172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033527 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "153e462a610344de",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700775039,
+        "stop" : 1704700789456,
+        "duration" : 14417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033528 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "d7d4136c026521aa",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700789457,
+        "stop" : 1704700800619,
+        "duration" : 11162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033529 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "fe3950322f246a26",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700800619,
+        "stop" : 1704700814465,
+        "duration" : 13846
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033530 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "a5d13f7c220cb004",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700814466,
+        "stop" : 1704700829728,
+        "duration" : 15262
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033531 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+      "uid" : "8faeb6cf0d5e2e3e",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700829729,
+        "stop" : 1704700842881,
+        "duration" : 13152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_033532 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 lower than Discount Price 2",
+      "uid" : "c7650e75b2de202e",
+      "parentUid" : "e2db0fc5f34ee35f6d3ebba91f37ba73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700842881,
+        "stop" : 1704700855308,
+        "duration" : 12427
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e2db0fc5f34ee35f6d3ebba91f37ba73"
+  }, {
+    "name" : "_0340PurchaseDiscount",
+    "children" : [ {
+      "name" : "_034001 check the Document discount in Purchase order",
+      "uid" : "eabe10e42271468e",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700855309,
+        "stop" : 1704700867758,
+        "duration" : 12449
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034002 check the Document discount in Purchase invoice",
+      "uid" : "f8029e801cbfae05",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700867758,
+        "stop" : 1704700881784,
+        "duration" : 14026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034003 check that discounts with the Sales document type are not displayed in the purchase documents",
+      "uid" : "437ce0a29fdb9fd4",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700881784,
+        "stop" : 1704700884213,
+        "duration" : 2429
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034004 check that discounts with the Purchase document type are not displayed in the sales documents",
+      "uid" : "f0d00bcba30511d",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700884214,
+        "stop" : 1704700888055,
+        "duration" : 3841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034030 check discount recalculation when change quantity in the Purchase return order",
+      "uid" : "ae7b6634a5894c9",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700888055,
+        "stop" : 1704700890430,
+        "duration" : 2375
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034031 check discount recalculation when change quantity in the Purchase return",
+      "uid" : "8b3ab935e673cca0",
+      "parentUid" : "bea57209e638d054cf448ceb2e113f12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700890430,
+        "stop" : 1704700893171,
+        "duration" : 2741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bea57209e638d054cf448ceb2e113f12"
+  }, {
+    "name" : "_0345RetailSalesReturnReceiptDiscount",
+    "children" : [ {
+      "name" : "_034501 check discount in Retail sales receipt",
+      "uid" : "26ff7828905e10ae",
+      "parentUid" : "a4e21e7e8adaf5f5cf859fe894cbc4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700893171,
+        "stop" : 1704700913309,
+        "duration" : 20138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034502 check discount in Retail sales receipt 5+1",
+      "uid" : "cc31b21db7acef16",
+      "parentUid" : "a4e21e7e8adaf5f5cf859fe894cbc4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700913310,
+        "stop" : 1704700934868,
+        "duration" : 21558
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034510 check discount recalculation when change quantity in Retail return receipt",
+      "uid" : "5b18f2db2d25112b",
+      "parentUid" : "a4e21e7e8adaf5f5cf859fe894cbc4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700934868,
+        "stop" : 1704700942010,
+        "duration" : 7142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a4e21e7e8adaf5f5cf859fe894cbc4f6"
+  }, {
+    "name" : "_0348SalesReturnDiscount",
+    "children" : [ {
+      "name" : "_034801 preparation",
+      "uid" : "afe1da12b9898f68",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700942011,
+        "stop" : 1704700955513,
+        "duration" : 13502
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_0348011 check preparation",
+      "uid" : "21168a68f20590cb",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700955513,
+        "stop" : 1704700956133,
+        "duration" : 620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034802 check discount recalculation when change quantity in the SaLes return order",
+      "uid" : "d82ebdb43d6a58f7",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700956133,
+        "stop" : 1704700958629,
+        "duration" : 2496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034803 check discount recalculation when change quantity in the SaLes return order",
+      "uid" : "920e9a4646b994ee",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700958629,
+        "stop" : 1704700960906,
+        "duration" : 2277
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034804 check 2 Document Discount (percent)",
+      "uid" : "7b9927dca894f52d",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700960906,
+        "stop" : 1704700968918,
+        "duration" : 8012
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034805 check 2 Document Discount (sum)",
+      "uid" : "a2c8b1762d6d877e",
+      "parentUid" : "027270ba533c72b9c982977385e8fb3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700968918,
+        "stop" : 1704700976646,
+        "duration" : 7728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "027270ba533c72b9c982977385e8fb3e"
+  }, {
+    "name" : "_0349DiscountPOS",
+    "children" : [ {
+      "name" : "_034901 preparation (discounts in POS)",
+      "uid" : "3e4be4844d662729",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700976646,
+        "stop" : 1704700990590,
+        "duration" : 13944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_0349011 check preparation",
+      "uid" : "f01f9cc7adca8ea9",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700990590,
+        "stop" : 1704700991265,
+        "duration" : 675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034902 check discount price type calculation in POS",
+      "uid" : "db9c14ce556995a0",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704700991265,
+        "stop" : 1704701001218,
+        "duration" : 9953
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034904 check two plus part of third discount in POS",
+      "uid" : "300b87d165f74fe1",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701001218,
+        "stop" : 1704701012798,
+        "duration" : 11580
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034905 check price type discount + discount coupon in POS",
+      "uid" : "dfa89e6193fd4806",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701012798,
+        "stop" : 1704701021731,
+        "duration" : 8933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034906 check price type discount + discount coupon in POS",
+      "uid" : "66d84cef80c58ab9",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701021731,
+        "stop" : 1704701030263,
+        "duration" : 8532
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034908 check return with discount from POS (first select basis document)",
+      "uid" : "8a540ddb4601ff48",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701030263,
+        "stop" : 1704701037374,
+        "duration" : 7111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034910 check price type discount + sum in POS (Consequentially)",
+      "uid" : "77534ec8fd2415d3",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701037375,
+        "stop" : 1704701047124,
+        "duration" : 9749
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034912 check auto calculate discount",
+      "uid" : "140ca52de87e99e3",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701047124,
+        "stop" : 1704701053557,
+        "duration" : 6433
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "_034914 discount for row",
+      "uid" : "3d7f64eb3e802704",
+      "parentUid" : "f1d50213d161e7aa5ff91523a10d0b4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1704701053558,
+        "stop" : 1704701061748,
+        "duration" : 8190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f1d50213d161e7aa5ff91523a10d0b4b"
+  } ]
+}

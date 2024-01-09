@@ -1,0 +1,1221 @@
+[ {
+  "uid" : "75c99fe4bea66c84",
+  "name" : "_033512 check the discount order in group Minimum (manual)",
+  "time" : {
+    "start" : 1704700563470,
+    "stop" : 1704700570632,
+    "duration" : 7162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c45e619d4df3953a",
+  "name" : "_033503 order creation discounted by price Discount Price 2 (price including VAT)",
+  "time" : {
+    "start" : 1704700451952,
+    "stop" : 1704700459276,
+    "duration" : 7324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f10e2cf0c5fee32f",
+  "name" : "_032011 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700151658,
+    "stop" : 1704700162440,
+    "duration" : 10782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a3f96f161c67d93",
+  "name" : "_032002 discount calculation Discount 2 without Vat in the group Sum in Minimum and Discount 1 without Vat in the group Minimum (auto)",
+  "time" : {
+    "start" : 1704700037281,
+    "stop" : 1704700050889,
+    "duration" : 13608
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "795371b9caec5d05",
+  "name" : "_030004 add Plugin RangeDiscount",
+  "time" : {
+    "start" : 1704699488134,
+    "stop" : 1704699490157,
+    "duration" : 2023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d790d4000020f1c",
+  "name" : "_033403 check of the minimum percentage of the range discount by lines",
+  "time" : {
+    "start" : 1704700374764,
+    "stop" : 1704700390274,
+    "duration" : 15510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a84e397116b36ef9",
+  "name" : "_030007 create Special Offer Types special message (Notification)",
+  "time" : {
+    "start" : 1704699512863,
+    "stop" : 1704699515171,
+    "duration" : 2308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc31b21db7acef16",
+  "name" : "_034502 check discount in Retail sales receipt 5+1",
+  "time" : {
+    "start" : 1704700913310,
+    "stop" : 1704700934868,
+    "duration" : 21558
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e54177508ce2f8",
+  "name" : "_032019 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700257313,
+    "stop" : 1704700268310,
+    "duration" : 10997
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d7f64eb3e802704",
+  "name" : "_034914 discount for row",
+  "time" : {
+    "start" : 1704701053558,
+    "stop" : 1704701061748,
+    "duration" : 8190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4c5c7c2dd55d324",
+  "name" : "_030010 create Special Offer Types special message (DialogBox)",
+  "time" : {
+    "start" : 1704699628879,
+    "stop" : 1704699631307,
+    "duration" : 2428
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "182912a9e029fc1",
+  "name" : "_033506  check the application of discounts Discount Price 2 without Vat (price not include VAT)- manual in the group Minimum and Discount Price 1 without Vat",
+  "time" : {
+    "start" : 1704700484452,
+    "stop" : 1704700490759,
+    "duration" : 6307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79cf2c1a4667b937",
+  "name" : "_030030 create Discount coupon",
+  "time" : {
+    "start" : 1704700009546,
+    "stop" : 1704700015443,
+    "duration" : 5897
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7650e75b2de202e",
+  "name" : "_033532 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700842881,
+    "stop" : 1704700855308,
+    "duration" : 12427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f64e3c614c592b84",
+  "name" : "_033501 change in the main group Special offers rule Minimum to Maximum by row",
+  "time" : {
+    "start" : 1704700443624,
+    "stop" : 1704700444838,
+    "duration" : 1214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7758e64722a762",
+  "name" : "_03000 preparation (Discount)",
+  "time" : {
+    "start" : 1704699460385,
+    "stop" : 1704699480624,
+    "duration" : 20239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "694ae962d51c4f0f",
+  "name" : "_033510 check the discount order in group Sum 2 auto message + price type discount",
+  "time" : {
+    "start" : 1704700530967,
+    "stop" : 1704700549047,
+    "duration" : 18080
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "766b85e436c0689c",
+  "name" : "_030006 create Special Offer Types (price type)",
+  "time" : {
+    "start" : 1704699505105,
+    "stop" : 1704699512863,
+    "duration" : 7758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b3ab935e673cca0",
+  "name" : "_034031 check discount recalculation when change quantity in the Purchase return",
+  "time" : {
+    "start" : 1704700890430,
+    "stop" : 1704700893171,
+    "duration" : 2741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5de49263ab8e825",
+  "name" : "_032007 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700095182,
+    "stop" : 1704700105744,
+    "duration" : 10562
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28f9982842c86117",
+  "name" : "_032016 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700216679,
+    "stop" : 1704700233413,
+    "duration" : 16734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d93de63a6a6aa8c",
+  "name" : "_030020 create Special Offer, automatic use Discount Price 1-2 without Vat (discount price, group minimum)",
+  "time" : {
+    "start" : 1704699875422,
+    "stop" : 1704699905157,
+    "duration" : 29735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2970ee49a1deb176",
+  "name" : "_033513 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700570633,
+    "stop" : 1704700589935,
+    "duration" : 19302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccaa1b97401f694a",
+  "name" : "_030009 create Special Offer Rule Present Discount",
+  "time" : {
+    "start" : 1704699561034,
+    "stop" : 1704699628879,
+    "duration" : 67845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d3c34a77d107b5b",
+  "name" : "_030031 create two plus part of third discount",
+  "time" : {
+    "start" : 1704700015444,
+    "stop" : 1704700023348,
+    "duration" : 7904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe3950322f246a26",
+  "name" : "_033529 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700800619,
+    "stop" : 1704700814465,
+    "duration" : 13846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "515dc53ff0b9fe1d",
+  "name" : "_032022 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700292684,
+    "stop" : 1704700306086,
+    "duration" : 13402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5dcb075e325e20a",
+  "name" : "_032014 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700191690,
+    "stop" : 1704700206951,
+    "duration" : 15261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c778e660416b09e2",
+  "name" : "_033404 check of the maximum percentage of the range discount by lines",
+  "time" : {
+    "start" : 1704700390275,
+    "stop" : 1704700404974,
+    "duration" : 14699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc04b396b56a24e7",
+  "name" : "_033514 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700589935,
+    "stop" : 1704700600899,
+    "duration" : 10964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afe1da12b9898f68",
+  "name" : "_034801 preparation",
+  "time" : {
+    "start" : 1704700942011,
+    "stop" : 1704700955513,
+    "duration" : 13502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5d13f7c220cb004",
+  "name" : "_033530 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700814466,
+    "stop" : 1704700829728,
+    "duration" : 15262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b1c7dcb4a907bab",
+  "name" : "_030013 create Special Offer Rules (Partner term)",
+  "time" : {
+    "start" : 1704699748526,
+    "stop" : 1704699760189,
+    "duration" : 11663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0d513eb234ea7ba",
+  "name" : "_033523 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700720388,
+    "stop" : 1704700738650,
+    "duration" : 18262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "437ce0a29fdb9fd4",
+  "name" : "_034003 check that discounts with the Sales document type are not displayed in the purchase documents",
+  "time" : {
+    "start" : 1704700881784,
+    "stop" : 1704700884213,
+    "duration" : 2429
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a540ddb4601ff48",
+  "name" : "_034908 check return with discount from POS (first select basis document)",
+  "time" : {
+    "start" : 1704701030263,
+    "stop" : 1704701037374,
+    "duration" : 7111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "300b87d165f74fe1",
+  "name" : "_034904 check two plus part of third discount in POS",
+  "time" : {
+    "start" : 1704701001218,
+    "stop" : 1704701012798,
+    "duration" : 11580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "565bade99ab3e3bf",
+  "name" : "_030028 create group consistently",
+  "time" : {
+    "start" : 1704699997009,
+    "stop" : 1704700009546,
+    "duration" : 12537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a61170a5285679ed",
+  "name" : "_033507 check the discount order in group Minimum (auto)",
+  "time" : {
+    "start" : 1704700490760,
+    "stop" : 1704700507809,
+    "duration" : 17049
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f16c088bae33382",
+  "name" : "_033401 preparation",
+  "time" : {
+    "start" : 1704700346316,
+    "stop" : 1704700361671,
+    "duration" : 15355
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6f0cd563d85821d",
+  "name" : "_030002 add Plugin DocumentDiscount",
+  "time" : {
+    "start" : 1704699484079,
+    "stop" : 1704699486095,
+    "duration" : 2016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "446b12007d101ff8",
+  "name" : "_0300051 add Plugin TwoPlusPartOfThird",
+  "time" : {
+    "start" : 1704699502736,
+    "stop" : 1704699505105,
+    "duration" : 2369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0d00bcba30511d",
+  "name" : "_034004 check that discounts with the Purchase document type are not displayed in the sales documents",
+  "time" : {
+    "start" : 1704700884214,
+    "stop" : 1704700888055,
+    "duration" : 3841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae7b6634a5894c9",
+  "name" : "_034030 check discount recalculation when change quantity in the Purchase return order",
+  "time" : {
+    "start" : 1704700888055,
+    "stop" : 1704700890430,
+    "duration" : 2375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26ff7828905e10ae",
+  "name" : "_034501 check discount in Retail sales receipt",
+  "time" : {
+    "start" : 1704700893171,
+    "stop" : 1704700913309,
+    "duration" : 20138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f062dc091a9966a0",
+  "name" : "_030008 create Special Offer Rule RangeDiscount",
+  "time" : {
+    "start" : 1704699515171,
+    "stop" : 1704699561034,
+    "duration" : 45863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcfc805eb7b32f2c",
+  "name" : "_032012 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700162440,
+    "stop" : 1704700175649,
+    "duration" : 13209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21168a68f20590cb",
+  "name" : "_0348011 check preparation",
+  "time" : {
+    "start" : 1704700955513,
+    "stop" : 1704700956133,
+    "duration" : 620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8faeb6cf0d5e2e3e",
+  "name" : "_033531 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700829729,
+    "stop" : 1704700842881,
+    "duration" : 13152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4ae624fd393c51b",
+  "name" : "_033516 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700614536,
+    "stop" : 1704700632007,
+    "duration" : 17471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12034274c91ebac2",
+  "name" : "_032004 discount calculation Discount 1 without Vat in the main group Special Offers, Discount 2 without Vat in the group Sum in Minimum (auto)",
+  "time" : {
+    "start" : 1704700059028,
+    "stop" : 1704700067757,
+    "duration" : 8729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e36766dd5a39464",
+  "name" : "_030017 create Special Offer (manual) Discount Price 1-2 (discount price, group maximum)",
+  "time" : {
+    "start" : 1704699798291,
+    "stop" : 1704699835517,
+    "duration" : 37226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eabe10e42271468e",
+  "name" : "_034001 check the Document discount in Purchase order",
+  "time" : {
+    "start" : 1704700855309,
+    "stop" : 1704700867758,
+    "duration" : 12449
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcd2c705749c6091",
+  "name" : "_032008 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700105744,
+    "stop" : 1704700118951,
+    "duration" : 13207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfa89e6193fd4806",
+  "name" : "_034905 check price type discount + discount coupon in POS",
+  "time" : {
+    "start" : 1704701012798,
+    "stop" : 1704701021731,
+    "duration" : 8933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7a9e88a0f9e6a4e",
+  "name" : "_032009 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700118951,
+    "stop" : 1704700135009,
+    "duration" : 16058
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a72bc3cb4ff4e8f",
+  "name" : "_033511 check the discount order in group Sum 2 auto message",
+  "time" : {
+    "start" : 1704700549048,
+    "stop" : 1704700563469,
+    "duration" : 14421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7e61d23ff7afa7",
+  "name" : "_032018 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700243945,
+    "stop" : 1704700257312,
+    "duration" : 13367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c23ae0a366729a69",
+  "name" : "_0300001 check preparation",
+  "time" : {
+    "start" : 1704699480625,
+    "stop" : 1704699481207,
+    "duration" : 582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42566523902e0a2a",
+  "name" : "_030019 create Special Offer - Special Message (DialogBox)",
+  "time" : {
+    "start" : 1704699855957,
+    "stop" : 1704699875422,
+    "duration" : 19465
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22c7f93ef9560f09",
+  "name" : "_033508 check the discount order in group Maximum (auto)",
+  "time" : {
+    "start" : 1704700507809,
+    "stop" : 1704700518575,
+    "duration" : 10766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d465b691d9b8166",
+  "name" : "_033526 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700764867,
+    "stop" : 1704700775039,
+    "duration" : 10172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7014d8a2ff571700",
+  "name" : "_033502 order creation discounted by price Discount Price 1 (price including VAT)",
+  "time" : {
+    "start" : 1704700444839,
+    "stop" : 1704700451951,
+    "duration" : 7112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1de930c36d1018b9",
+  "name" : "_030001 add Plugin SpecialMessage",
+  "time" : {
+    "start" : 1704699481208,
+    "stop" : 1704699484079,
+    "duration" : 2871
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e919397e34a2e95",
+  "name" : "_033405 Range discount and Special price discount calculation",
+  "time" : {
+    "start" : 1704700404974,
+    "stop" : 1704700418454,
+    "duration" : 13480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ff0a3acbabe0c1e",
+  "name" : "_032005 change Special offers main group Maximum by row to Minimum",
+  "time" : {
+    "start" : 1704700067757,
+    "stop" : 1704700078598,
+    "duration" : 10841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f0f6242e50fb4d",
+  "name" : "_030015 create Special Offer (group Sum)",
+  "time" : {
+    "start" : 1704699774723,
+    "stop" : 1704699786508,
+    "duration" : 11785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5b037a31176fff1",
+  "name" : "_030016 create Special Offer (group Minimum )",
+  "time" : {
+    "start" : 1704699786508,
+    "stop" : 1704699798291,
+    "duration" : 11783
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbb79d216f3cded0",
+  "name" : "_032017 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700233414,
+    "stop" : 1704700243945,
+    "duration" : 10531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59a40169feca083d",
+  "name" : "_032003 discount calculation Discount 2 without Vat in the main group Special Offers, Discount 1 without Vat in the group Sum in Minimum (auto)",
+  "time" : {
+    "start" : 1704700050889,
+    "stop" : 1704700059027,
+    "duration" : 8138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "917cd5aa17983d9b",
+  "name" : "_033525 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700749234,
+    "stop" : 1704700764867,
+    "duration" : 15633
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ed4c1617eec1ef1",
+  "name" : "_032020 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700268310,
+    "stop" : 1704700282105,
+    "duration" : 13795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e4be4844d662729",
+  "name" : "_034901 preparation (discounts in POS)",
+  "time" : {
+    "start" : 1704700976646,
+    "stop" : 1704700990590,
+    "duration" : 13944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec7c78d61d08caf9",
+  "name" : "_030003 add Plugin SpecialRules",
+  "time" : {
+    "start" : 1704699486095,
+    "stop" : 1704699488134,
+    "duration" : 2039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b69a082dd8c44ed",
+  "name" : "_033504 check the discount order in group Maximum (manual)",
+  "time" : {
+    "start" : 1704700459277,
+    "stop" : 1704700466264,
+    "duration" : 6987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2c8b1762d6d877e",
+  "name" : "_034805 check 2 Document Discount (sum)",
+  "time" : {
+    "start" : 1704700968918,
+    "stop" : 1704700976646,
+    "duration" : 7728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffbb0cbb0ee7b55f",
+  "name" : "_030018 create Special Offer - Special Message (Notification)",
+  "time" : {
+    "start" : 1704699835517,
+    "stop" : 1704699855957,
+    "duration" : 20440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "153e462a610344de",
+  "name" : "_033527 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700775039,
+    "stop" : 1704700789456,
+    "duration" : 14417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0d556dd87f0a54",
+  "name" : "_030024 create special offer Present Discount",
+  "time" : {
+    "start" : 1704699915498,
+    "stop" : 1704699960907,
+    "duration" : 45409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88b3b995d76172e2",
+  "name" : "_032013 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700175649,
+    "stop" : 1704700191690,
+    "duration" : 16041
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ed71892ee9f8577",
+  "name" : "_033521 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700694162,
+    "stop" : 1704700709190,
+    "duration" : 15028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "151a43e0f9c42b48",
+  "name" : "_033509 check the discount order in group Sum (auto discount by price type + message)",
+  "time" : {
+    "start" : 1704700518576,
+    "stop" : 1704700530967,
+    "duration" : 12391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e967203580fccf9e",
+  "name" : "_033517 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (2 auto discount), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700632007,
+    "stop" : 1704700650316,
+    "duration" : 18309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b9927dca894f52d",
+  "name" : "_034804 check 2 Document Discount (percent)",
+  "time" : {
+    "start" : 1704700960906,
+    "stop" : 1704700968918,
+    "duration" : 8012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7d4136c026521aa",
+  "name" : "_033528 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700789457,
+    "stop" : 1704700800619,
+    "duration" : 11162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3edf24fab315dc5e",
+  "name" : "_032024 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700321935,
+    "stop" : 1704700335351,
+    "duration" : 13416
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b15c90f3a6ec668e",
+  "name" : "_033505 check the application of discounts Discount Price 1 without Vat (price not include VAT) - manual in the group Minimum and Discount Price 2 without Vat",
+  "time" : {
+    "start" : 1704700466264,
+    "stop" : 1704700484450,
+    "duration" : 18186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8029e801cbfae05",
+  "name" : "_034002 check the Document discount in Purchase invoice",
+  "time" : {
+    "start" : 1704700867758,
+    "stop" : 1704700881784,
+    "duration" : 14026
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20a10f448acc5a14",
+  "name" : "_030014 create Special Offer (group Maximum by row/Special Offers Maximum by row)",
+  "time" : {
+    "start" : 1704699760189,
+    "stop" : 1704699774723,
+    "duration" : 14534
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25ecb487644f5774",
+  "name" : "_033524 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700738650,
+    "stop" : 1704700749234,
+    "duration" : 10584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc719262b531804",
+  "name" : "_030011 create Special Offer Types Present Discount",
+  "time" : {
+    "start" : 1704699631307,
+    "stop" : 1704699720289,
+    "duration" : 88982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "240a9d0e4b1b242c",
+  "name" : "_033515 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700600899,
+    "stop" : 1704700614536,
+    "duration" : 13637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12536b103af509fb",
+  "name" : "_033406 check the discount order Range discount and crowding out 2 price special offers",
+  "time" : {
+    "start" : 1704700418454,
+    "stop" : 1704700431926,
+    "duration" : 13472
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66d84cef80c58ab9",
+  "name" : "_034906 check price type discount + discount coupon in POS",
+  "time" : {
+    "start" : 1704701021731,
+    "stop" : 1704701030263,
+    "duration" : 8532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b711877656205b5",
+  "name" : "_033520 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700677501,
+    "stop" : 1704700694161,
+    "duration" : 16660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5d037d97e41c32b",
+  "name" : "_030026 create Document discount",
+  "time" : {
+    "start" : 1704699991081,
+    "stop" : 1704699997009,
+    "duration" : 5928
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1370b0eb66ec0ec",
+  "name" : "_030005 add Plugin FivePlusOne",
+  "time" : {
+    "start" : 1704699490157,
+    "stop" : 1704699502736,
+    "duration" : 12579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79b9ddbb480bd902",
+  "name" : "_030025 create Range Discount",
+  "time" : {
+    "start" : 1704699960908,
+    "stop" : 1704699991081,
+    "duration" : 30173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "363ee2b541904a44",
+  "name" : "_032010 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (2 auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700135010,
+    "stop" : 1704700151657,
+    "duration" : 16647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b505768c9700cf1a",
+  "name" : "_033518 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700650316,
+    "stop" : 1704700661235,
+    "duration" : 10919
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72760e5bf7d7dff3",
+  "name" : "_030022 create special offer group within another special offer group",
+  "time" : {
+    "start" : 1704699906639,
+    "stop" : 1704699913698,
+    "duration" : 7059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92ba898c0a1ae365",
+  "name" : "_032023 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (Discount Price 2 manual, Discount Price 1 - auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700306087,
+    "stop" : 1704700321934,
+    "duration" : 15847
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67ca4ec5bd0f181f",
+  "name" : "_033407 range discount recalculation when the quantity of items in the order changes",
+  "time" : {
+    "start" : 1704700431927,
+    "stop" : 1704700443624,
+    "duration" : 11697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f01f9cc7adca8ea9",
+  "name" : "_0349011 check preparation",
+  "time" : {
+    "start" : 1704700990590,
+    "stop" : 1704700991265,
+    "duration" : 675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "543db6dcd05e5bdc",
+  "name" : "_032015 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700206951,
+    "stop" : 1704700216679,
+    "duration" : 9728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "920e9a4646b994ee",
+  "name" : "_034803 check discount recalculation when change quantity in the SaLes return order",
+  "time" : {
+    "start" : 1704700958629,
+    "stop" : 1704700960906,
+    "duration" : 2277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86cd4c77bf064916",
+  "name" : "_032006 check the discount order (same application rule), Discount Price 1 in the group Maximum, Discount Price 2 in the group Minimum (auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700078598,
+    "stop" : 1704700095181,
+    "duration" : 16583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fae1d754096676d7",
+  "name" : "_032001 discount calculation Discount 2 without Vat in the group Sum in Minimum and Discount 1 without Vat in the group Minimum (manual)",
+  "time" : {
+    "start" : 1704700027817,
+    "stop" : 1704700037281,
+    "duration" : 9464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fa459f5aaaba474",
+  "name" : "_030023 moving a special offer inside another special offer (Parent change)",
+  "time" : {
+    "start" : 1704699913698,
+    "stop" : 1704699915498,
+    "duration" : 1800
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98f9354b50a9d4a8",
+  "name" : "_032025 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (manual), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700335352,
+    "stop" : 1704700346316,
+    "duration" : 10964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7fbbb8884f4d79",
+  "name" : "_030012 create Special Offer Types Range Discount",
+  "time" : {
+    "start" : 1704699720290,
+    "stop" : 1704699748525,
+    "duration" : 28235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db9c14ce556995a0",
+  "name" : "_034902 check discount price type calculation in POS",
+  "time" : {
+    "start" : 1704700991265,
+    "stop" : 1704701001218,
+    "duration" : 9953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77534ec8fd2415d3",
+  "name" : "_034910 check price type discount + sum in POS (Consequentially)",
+  "time" : {
+    "start" : 1704701037375,
+    "stop" : 1704701047124,
+    "duration" : 9749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66a431d08b7e0712",
+  "name" : "_032021 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Sum (auto), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700282105,
+    "stop" : 1704700292684,
+    "duration" : 10579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6ca0f1cf91d8b0b",
+  "name" : "_033402 range discount calculation by line",
+  "time" : {
+    "start" : 1704700361671,
+    "stop" : 1704700374764,
+    "duration" : 13093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d82ebdb43d6a58f7",
+  "name" : "_034802 check discount recalculation when change quantity in the SaLes return order",
+  "time" : {
+    "start" : 1704700956133,
+    "stop" : 1704700958629,
+    "duration" : 2496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4ee76d3fe1112cd",
+  "name" : "_032000 discount form",
+  "time" : {
+    "start" : 1704700023348,
+    "stop" : 1704700027816,
+    "duration" : 4468
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b913058ea0b2e3a",
+  "name" : "_030021 moving special offer from one group to another",
+  "time" : {
+    "start" : 1704699905159,
+    "stop" : 1704699906639,
+    "duration" : 1480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b18f2db2d25112b",
+  "name" : "_034510 check discount recalculation when change quantity in Retail return receipt",
+  "time" : {
+    "start" : 1704700934868,
+    "stop" : 1704700942010,
+    "duration" : 7142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40599a408bfd542b",
+  "name" : "_033522 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (manual), priority Discount Price 1 lower than Discount Price 2",
+  "time" : {
+    "start" : 1704700709191,
+    "stop" : 1704700720388,
+    "duration" : 11197
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "140ca52de87e99e3",
+  "name" : "_034912 check auto calculate discount",
+  "time" : {
+    "start" : 1704701047124,
+    "stop" : 1704701053557,
+    "duration" : 6433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f406f2ea7dc947",
+  "name" : "_033519 check the discount order (same application rule), Discount Price 1 in the group Minimum, Discount Price 2 in the group Maximum (Discount Price 1 manual, Discount Price 2 - auto), priority Discount Price 1 higher than Discount Price 2",
+  "time" : {
+    "start" : 1704700661235,
+    "stop" : 1704700677501,
+    "duration" : 16266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
