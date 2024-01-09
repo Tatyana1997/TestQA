@@ -1,2 +1,0 @@
-﻿"Ref","Key","PaymentType","PaymentTerminal","Account","Amount","Percent","Commission","BankTerm"
-"e1cib/data/Document.RetailSalesReceipt?ref=b79392df2896a84411ed9ef05b92181c","8d9b8e3a-8cdc-4758-9e57-e9e7e7a344f0","e1cib/data/Catalog.PaymentTypes?ref=aa78120ed92fbced11eaf12effe70fd0","","e1cib/data/Catalog.CashAccounts?ref=aa78120ed92fbced11eaf113ba6c186e","43375","","",""
